@@ -14,5 +14,4 @@ There is a new feature by main branch
 
 More new feature by main branch
 
-
-some new feature added by adesh
+New feature added by Adesh.
